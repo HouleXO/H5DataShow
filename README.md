@@ -6,7 +6,7 @@
 
 ###作品展示（请使用手机扫码浏览页面）
 
-&emsp;&emsp;&emsp;&emsp;![](https://github.com/Lovejulyer/WebAppDataShow/blob/gh-pages/imgs/link.png)
+&emsp;&emsp;&emsp;&emsp;![](https://github.com/HouleXO/study-H5DataShow/blob/master/imgs/link.png)
 
 
 ###重点总结
